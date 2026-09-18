@@ -1,6 +1,6 @@
 # TPC1
 
-## AUTOR
+## Autor
 
 Nome: Francisca Vila Chã Costa
 Número: a113533
