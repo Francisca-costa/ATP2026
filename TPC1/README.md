@@ -10,7 +10,7 @@ Número: a113533
 
 
 ## Resumo
-Este trabalho consistiu em duas etapas, a primeira era completar o exercício 10 do jogo MAZE e segunda parte construir o desenho fornecido pelo docente no jogo TURTLE também no nível 10. O objetivo do nível 10 do jogo MAZE era fazer com que o boneco percorresse o percurso até ao ponto de chegada, neste jogo foi necessário utilizar limitados comandos básicos para que a tarefa fosse concluída. Quanto ao objetivo do jogo TURTLE, era utilizar os comandos disponíveis para construir a paisagem constituída por uma barco, um sol, três nuvens, um ponto e duas ondas.
+Este trabalho consistiu em duas etapas, a primeira era completar o exercício 10 do jogo MAZE e a segunda parte construir o desenho fornecido pelo docente no jogo TURTLE também no nível 10. O objetivo do nível 10 do jogo MAZE era fazer com que o boneco percorresse o percurso até ao ponto de chegada, neste jogo foi necessário utilizar limitados comandos básicos para que a tarefa fosse concluída. Quanto ao objetivo do jogo TURTLE, era utilizar os comandos disponíveis para construir a paisagem constituída por uma barco, um sol, três nuvens, um ponto e duas ondas.
 
 ## Resultados
 
