@@ -14,7 +14,7 @@ Este trabalho consistiu em duas etapas, a primeira era completar o exercício 10
 
 ## Resultados
 
-<img width="1470" height="956" alt="Captura de ecrã 2026-09-22, às 14 24 41" src="https://github.com/user-attachments/assets/337702f3-2096-4bc2-b065-08c4b4d3a686" />
+(maze.png)
 
-<img width="1470" height="956" alt="Captura de ecrã 2026-09-22, às 15 29 56" src="https://github.com/user-attachments/assets/8ce4bfc9-07ee-4f0a-81b9-00dbc9bf8ff1" />
+(turtle.png)
 
