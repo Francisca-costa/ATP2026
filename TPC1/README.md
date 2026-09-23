@@ -14,9 +14,8 @@ Este trabalho consistiu em duas etapas, a primeira era completar o exercício 10
 
 ## Resultados
 
-![Descriçãoo.png
+![Descriçãoo.png]
 (maze.png)
 
-![Descriçãoo.png
 (turtle.png)
 
