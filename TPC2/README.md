@@ -12,4 +12,4 @@ Número: a113533
 ## Resumo
 Este trabalho consistiu na criação de um jogo cujo objetivo é adivinhar o número que o outro jogador escolheu entre 1 e 100. O jogador no inicio decide como quer jogar, se é ele a escolher o número ou se é o computador a escolher. Para a criação deste jogo definiram-se três funções.
 ## Resultados
-![Descrição.png]
+![Descrição.png](###TPC2.py)
