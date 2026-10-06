@@ -10,6 +10,8 @@ Número: a113533
 
 
 ## Resumo
+O objetivo deste trabalho era criar um jogo em que os dois jogadores vão dizendo números e estes são somados. O objetivo do jogo é chegar ao número 100 e o jogador que disser o último número de modo a obter-se o número 100 ganha. Foi criado duas vertentes, pois se o computador começar este tem de obrigatoriamente ganhar, mas se for o jogador a começar este pode ganhar se conseguir acertar a estratégia senão é o computador que ganha. 
+
 
 ## Resultados
-
+[TPC3.py](TPC3.py)
