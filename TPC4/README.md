@@ -10,8 +10,9 @@ Número: a113533
 
 
 ## Resumo
- 
+ Este trabalho consistiu na criação de uma aplicação para manipulação de listas de inteiros. Inicialmente aparece um menu para o utilizador escolher o que quer fazer, e dependendo do número escolhido pelo utilizador, o programa realiza o pedido.
 
 
 ## Resultados
+[TPC4.py](TPC4.py)
 
