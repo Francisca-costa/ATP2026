@@ -66,21 +66,23 @@ def manip():
         elif n==7:
             def estaOrdenada(lista):
                 i=0
+                ordenada="Sim"
                 while i <len(lista)-1:
                     if lista[i]>lista[i+1]:
-                        return "Não"
+                        ordenada="Não"
                     i=i+1
-                return "Sim"
+                return ordenada
             print(estaOrdenada(lista))
             n=int(input("Que deseja fazer (escolha o número correspondente))"))
         elif n==8:
             def estaordenada(lista):
                 i=0
+                ordenada="Sim"
                 while i< len(lista)-1:
                     if lista[i]<lista[i+1]:
-                        return "Não"
+                        ordenada="Não"
                     i=i+1
-                return "Sim"
+                return ordenada
             print(estaordenada(lista))
             n=int(input("Que deseja fazer (escolha o número correspondente))"))
         elif n==9:
