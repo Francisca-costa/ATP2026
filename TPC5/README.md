@@ -10,7 +10,7 @@ Número: a113533
 
 
 ## Resumo
- Este trabalho consistiu na criação de programa em que era possível criar uma turma com os alunos que o utilizador desejar, sendo possível também ver o id e as notas de cada aluno ide forma muito fácil. Para além disso, é possível acrescentar alunos à turma existente, verificar através do ID do aluno se este está na turma e as suas informações Se o utilizador desejar é ainda possível criar um ficheiro com assinatura informações dos alunos que fazem parte da turma e importar o ficheiro. 
+ Este trabalho consistiu na criação de um programa em que era possível criar uma turma com os alunos que o utilizador desejar, sendo possível também ver o ID e as notas de cada aluno de forma muito fácil. Para além disso, é possível acrescentar alunos à turma existente, verificar através do ID do aluno se este está na turma e as suas informações. Se o utilizador desejar é ainda possível criar um ficheiro com as informações dos alunos que fazem parte da turma e importar o ficheiro. 
 ## Resultados
 [TPC5.py](TPC5.py)
 
