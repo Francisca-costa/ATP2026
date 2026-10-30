@@ -7,7 +7,7 @@ def analisar():
         t_min=float(input(f"Introduza a temperatura minima registada no dia {data} "))
         pre=float(input(f"Introduza a precepitação registada no dia {data}"))
         meteo.append((data,t_max,t_min,pre))
-    print("Escolha o que pretende fazer: \n 0) sair do programa \n 1) Temperatura média \n 2) Guardar a tabela metereologica num ficheiro de texto \n 3) Carregar uma tabela metereologica de um ficheiro \n 4) Temperatura mínima mais baixa da tabela metereologica \n 5) Amplitude térmica \n 6) Dia em que a precipitação teve o valor máximo \n 7) Dias em que a precipitação foi superior a um certo valor \n 8) Número de dias consecutivos em que a precipitação foi abaixo de um certo valor \n 9) Gráfico da temperatura mínima, máxima e da pluvosidade \n 10) Colocar tudo numa aplicação externa ao notebook ")
+    print("Escolha o que pretende fazer: \n 0) sair do programa \n 1) Temperatura média \n 2) Guardar a tabela metereologica num ficheiro de texto \n 3) Carregar uma tabela metereologica de um ficheiro \n 4) Temperatura mínima mais baixa da tabela metereologica \n 5) Amplitude térmica \n 6) Dia em que a precipitação teve o valor máximo \n 7) Dias em que a precipitação foi superior a um certo valor \n 8) Número de dias consecutivos em que a precipitação foi abaixo de um certo valor \n 9) Gráfico da temperatura mínima, máxima e da pluvosidade")
     
     e=-1
     while e!=0:
