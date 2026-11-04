@@ -10,9 +10,9 @@ Número: a113533
 
 
 ## Resumo
-
+Este trabalho de casa consistiu na junção de três trabalhos de casa. Em que o primeiro tinha como objetivo especificar as listas em compreensão, o segundo era realizar as tarefas pedidas e o terceiro era definir as funções que eram pedidas
 
 ## Resultados
-[TPC.py](TPC.py)
+[TPC7.py](TPC7.py)
 
 
