@@ -13,6 +13,6 @@ Número: a113533
 Este trabalho de casa consistiu na junção de três trabalhos de casa. Em que o primeiro tinha como objetivo especificar as listas em compreensão, o segundo era realizar as tarefas pedidas e o terceiro era definir as funções que eram pedidas
 
 ## Resultados
-[tpc7.ipynb](tpc7.ipynb)
+[TPC7.ipynb](TPC7.ipynb)
 
 
